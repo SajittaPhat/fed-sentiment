@@ -48,7 +48,7 @@ Generates token length distribution, return distribution, and meeting frequency 
 python notebooks/02_run_all_models.py
 ```
 
-Runs VADER, FinBERT (zero-shot), and fine-tuned FinBERT. Saves scores, prints model comparison table, generates all plots.
+Runs VADER and FinBERT (zero-shot). Saves scores, prints model comparison table, generates all plots.
 
 ### 6. Run topic modelling (~10 minutes)
 
