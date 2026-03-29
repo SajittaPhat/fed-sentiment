@@ -1,0 +1,3 @@
+,accuracy,precision,recall,f1,spearman_r,directional_accuracy,sharpe,n_samples
+VADER,0.507,0.5075,0.9444,0.6602,0.024,0.507,-2.2507,71.0
+FinBERT,0.5634,0.5676,0.5833,0.5753,0.123,0.5352,3.3623,71.0

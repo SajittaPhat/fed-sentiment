@@ -1,0 +1,31 @@
+# Fed Sentiment Analysis — Python dependencies
+# Tested with Python 3.11
+
+# Core data
+pandas==2.2.2
+numpy==1.26.4
+yfinance==0.2.40
+
+# Web scraping
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# NLP
+nltk==3.8.1
+transformers==4.41.2
+torch==2.3.1          # CPU version; for GPU: pip install torch --index-url https://download.pytorch.org/whl/cu121
+tokenizers==0.19.1
+sentencepiece==0.2.0
+
+# Topic modelling
+gensim==4.3.2
+
+# Evaluation & plotting
+scikit-learn==1.5.0
+scipy==1.13.0
+matplotlib==3.9.0
+
+# Optional: BERTopic (uncomment if using 03b_bertopic.py)
+# bertopic==0.16.3
+# umap-learn==0.5.6
+# hdbscan==0.8.38
