@@ -5,6 +5,7 @@
 pandas==2.2.2
 numpy==1.26.4
 yfinance==0.2.40
+pandas-datareader==0.10.0
 
 # Web scraping
 requests==2.32.3
@@ -12,6 +13,7 @@ beautifulsoup4==4.12.3
 
 # NLP
 nltk==3.8.1
+vaderSentiment==3.3.2 
 transformers==4.41.2
 torch==2.3.1          # CPU version; for GPU: pip install torch --index-url https://download.pytorch.org/whl/cu121
 tokenizers==0.19.1
@@ -24,6 +26,7 @@ gensim==4.3.2
 scikit-learn==1.5.0
 scipy==1.13.0
 matplotlib==3.9.0
+seaborn==0.13.2
 
 # Optional: BERTopic (uncomment if using 03b_bertopic.py)
 # bertopic==0.16.3
