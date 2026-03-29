@@ -1,10 +1,9 @@
 # Fed Sentiment: FOMC Communication & Equity Market Returns
 
-> **GitHub link for Problem Set #2 — Text as Data**
 
 ## Research Question
 
-Does the sentiment of Federal Reserve FOMC post-meeting statements predict short-term U.S. equity market returns, and has the tone of Fed communication shifted across monetary policy regimes (2000–2024)?
+Does the sentiment of Federal Reserve FOMC post-meeting statements predict short-term U.S. equity market returns, and has the tone of Fed communication shifted across monetary policy regimes (2016–2024)?
 
 ## Reproducing Results
 
